@@ -1,1 +1,2 @@
 preved zadrot
+new string
